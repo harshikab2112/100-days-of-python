@@ -56,7 +56,7 @@ Each day focuses on **hands-on coding and practical projects**.
 # 📈 Challenge Progress
 
 
-Progress: 0%
+Progress: 3%
 
 ![Progress](https://img.shields.io/badge/Progress-3%25-red)
 ![Days Completed](https://img.shields.io/badge/Days-3%2F100-lightgrey)
