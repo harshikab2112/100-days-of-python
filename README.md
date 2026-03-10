@@ -58,7 +58,8 @@ Each day focuses on **hands-on coding and practical projects**.
 
 Progress: 0%
 
-[□□□□□□□□□□] 0/100 Days Completed
+![Progress](https://img.shields.io/badge/Progress-0%25-red)
+![Days Completed](https://img.shields.io/badge/Days-0%2F100-lightgrey)
 
 
 ---
@@ -83,22 +84,17 @@ Progress: 0%
 
 # 📂 Repository Structure
 
-
+```
 100-days-of-python/
 │
-├── Day01/
-│ ├── main.py
+├── Day01
 │
-├── Day02/
-│ ├── main.py
+├── Day02
 │
-├── Day03/
-│ ├── main.py
-│
-├── Projects/
+├── Day03
 │
 └── README.md
-
+```
 
 Each folder contains:
 
