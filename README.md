@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code – Python Bootcamp
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Days](https://img.shields.io/badge/Days-0%2F100-lightgrey)
+![Days](https://img.shields.io/badge/Days-3%2F100-lightgrey)
 ![Status](https://img.shields.io/badge/Challenge-In%20Progress-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -35,9 +35,9 @@ Each day focuses on **hands-on coding and practical projects**.
 
 | Day | Topic / Project | Status |
 |----|-----------------|--------|
-| Day 1 | Working with Variables | ⏳ |
-| Day 2 | Data Types | ⏳ |
-| Day 3 | Control Flow | ⏳ |
+| Day 1 | Working with Variables | ✅ |
+| Day 2 | Data Types | ✅ |
+| Day 3 | Control Flow | ✅ |
 | Day 4 | Randomisation & Lists | ⏳ |
 | Day 5 | Loops | ⏳ |
 | Day 6 | Functions | ⏳ |
@@ -58,8 +58,8 @@ Each day focuses on **hands-on coding and practical projects**.
 
 Progress: 0%
 
-![Progress](https://img.shields.io/badge/Progress-0%25-red)
-![Days Completed](https://img.shields.io/badge/Days-0%2F100-lightgrey)
+![Progress](https://img.shields.io/badge/Progress-3%25-red)
+![Days Completed](https://img.shields.io/badge/Days-3%2F100-lightgrey)
 
 
 ---
